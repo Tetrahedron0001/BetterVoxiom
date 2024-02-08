@@ -9,8 +9,8 @@
 	  font-family: 'Comic Sans MS';
 	
 	  font-family: Helvetica;
-	*/
-	font-family: 'Menlo', monospace;
+	
+	font-family: 'Menlo', monospace;*/
 }
 
 [href="/friends"]>:nth-child(1), [href="/clans"]>:nth-child(1) {
@@ -96,7 +96,7 @@
 
 .bNczYf {
 	/* Default background; change it to something else if you want */
-	background-image: url('https://i.imgur.com/fTnN9mR.jpg') !important;
+	background-image: url('https://www.fodors.com/wp-content/uploads/2018/09/Hero_GrandCanyon101_Hero_shutterstock_197685827.jpg') !important;
 }
 
 .sc-heyBJZ.lnowGN, .sc-Dtwra.eoolpn, .sc-hatQeL.dXfkYO {
